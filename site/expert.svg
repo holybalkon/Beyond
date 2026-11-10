@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="Portrait of Daniel Reimer">
+  <defs>
+    <clipPath id="c"><circle cx="48" cy="48" r="48"/></clipPath>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="96" height="96" fill="#e5f2ee"/>
+    <circle cx="48" cy="38" r="20" fill="#0b6b53"/>
+    <path d="M12 96 C12 70 30 60 48 60 C66 60 84 70 84 96 Z" fill="#084d3c"/>
+    <rect x="40" y="58" width="16" height="12" fill="#c8891f"/>
+  </g>
+</svg>
