@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Calgary Insulation Guide">
+  <rect width="64" height="64" rx="13" fill="#13332b"/>
+  <!-- House with insulation, simplified for small sizes -->
+  <path d="M32 11 L54 29 H10 Z" fill="#3a9d5d"/>
+  <path d="M14 29 H50 V54 H14 Z" fill="#ffffff"/>
+  <g fill="none" stroke="#3a9d5d" stroke-width="4.4" stroke-linecap="round">
+    <path d="M20 37 q6 -4.5 12 0 t12 0"/>
+    <path d="M20 46 q6 -4.5 12 0 t12 0"/>
+  </g>
+</svg>
