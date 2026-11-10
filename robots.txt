@@ -1,4 +1,4 @@
-# robots.txt — Calgary Insulation Guide (Beyond Foam Insulation Ltd.)
+# robots.txt — Calgary Insulation Guide
 # AI crawlers are explicitly allowed.
 User-agent: *
 Allow: /
